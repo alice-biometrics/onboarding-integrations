@@ -4,7 +4,7 @@
 
 ALiCE Onboarding provides API Client Tools and Client SDKs to facilitate rapid integration and development.
 
-## ALiCE Onboarding Client API Client Tools
+## ALiCE Onboarding API Client Tools
 
 * [ALiCE Onboarding API (Swagger)](https://apis.alicebiometrics.com/onboarding/ui/#/)
   - [Auth API (Swagger)](https://apis.alicebiometrics.com/auth/ui/#/)
