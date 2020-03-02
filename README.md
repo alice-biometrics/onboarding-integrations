@@ -5,5 +5,5 @@
 * [onboarding-ios ](https://github.com/alice-biometrics/onboarding-ios)
 * [onboarding-android :robot:](https://github.com/alice-biometrics/onboarding-android)
 * [onboarding-react-native ⚛️](https://github.com/alice-biometrics/onboarding-react-native)
-* [onboarding-python :snake:](https://github.com/alice-biometrics/onboarding-ios)
+* [onboarding-python :snake:](https://github.com/alice-biometrics/onboarding-python)
 * [onboarding-insomnia :dizzy_face:](https://github.com/alice-biometrics/onboarding-insomnia)
