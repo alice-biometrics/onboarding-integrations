@@ -1,4 +1,4 @@
-# Onboarding Integrations [![doc](https://img.shields.io/badge/doc-onboarding-51CB56)](https://docs.alicebiometrics.com/onboarding/) [![doc](https://img.shields.io/badge/doc-integrations-51CB56)](https://docs.alicebiometrics.com/onboarding/integrations) 
+# ALiCE Onboarding Integrations [![doc](https://img.shields.io/badge/doc-onboarding-51CB56)](https://docs.alicebiometrics.com/onboarding/) [![doc](https://img.shields.io/badge/doc-integrations-51CB56)](https://docs.alicebiometrics.com/onboarding/integrations) 
 
 
 * [onboarding-web :earth_africa:](https://github.com/alice-biometrics/onboarding-web)
