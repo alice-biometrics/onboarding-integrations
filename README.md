@@ -2,7 +2,15 @@
 [![doc](https://img.shields.io/badge/doc-onboarding-51CB56)](https://docs.alicebiometrics.com/onboarding/) 
 [![doc](https://img.shields.io/badge/doc-integrations-51CB56)](https://docs.alicebiometrics.com/onboarding/integrations) 
 
-ALiCE Onboarding provides SDKs and API Client Tools to facilitate rapid integration and development.
+ALiCE Onboarding provides API Client Tools and Client SDKs to facilitate rapid integration and development.
+
+## ALiCE Onboarding Client API Client Tools
+
+* [ALiCE Onboarding API (Swagger)](https://apis.alicebiometrics.com/onboarding/ui/#/)
+  - [Auth API (Swagger)](https://apis.alicebiometrics.com/auth/ui/#/)
+  - [Onboarding API (Swagger)](https://apis.alicebiometrics.com/onboarding/ui/#/)
+* [onboarding-python :snake: (Github :octocat:)](https://github.com/alice-biometrics/onboarding-python)
+* [onboarding-insomnia :dizzy_face: (Github :octocat:)](https://github.com/alice-biometrics/onboarding-insomnia)
 
 ## ALiCE Onboarding Client SDKs
 
@@ -12,10 +20,4 @@ ALiCE Onboarding provides SDKs and API Client Tools to facilitate rapid integrat
 * [onboarding-react-native ⚛️ (Github :octocat:)](https://github.com/alice-biometrics/onboarding-react-native)
 
 
-## ALiCE Onboarding Client API Client Tools
 
-* [ALiCE Onboarding API (Swagger)](https://apis.alicebiometrics.com/onboarding/ui/#/)
-  - [Auth API (Swagger)](https://apis.alicebiometrics.com/auth/ui/#/)
-  - [Onboarding API (Swagger)](https://apis.alicebiometrics.com/onboarding/ui/#/)
-* [onboarding-python :snake: (Github :octocat:)](https://github.com/alice-biometrics/onboarding-python)
-* [onboarding-insomnia :dizzy_face: (Github :octocat:)](https://github.com/alice-biometrics/onboarding-insomnia)
