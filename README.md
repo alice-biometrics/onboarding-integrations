@@ -1,6 +1,6 @@
 # ALiCE Onboarding Integrations 
 [![doc](https://img.shields.io/badge/doc-onboarding-51CB56)](https://docs.alicebiometrics.com/onboarding/) 
-[![doc](https://img.shields.io/badge/doc-integrations-51CB56)](https://docs.alicebiometrics.com/onboarding/integrations) 
+[![doc](https://img.shields.io/badge/doc-integrations-51CB56)](https://docs.alicebiometrics.com/onboarding/integrations.html) 
 
 ALiCE Onboarding provides API Client Tools and Client SDKs to facilitate rapid integration and development.
 
