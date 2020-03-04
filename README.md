@@ -1,6 +1,8 @@
-# ALiCE Onboarding Integrations 
-[![doc](https://img.shields.io/badge/doc-onboarding-51CB56)](https://docs.alicebiometrics.com/onboarding/) 
-[![doc](https://img.shields.io/badge/doc-integrations-51CB56)](https://docs.alicebiometrics.com/onboarding/integrations.html) 
+# ALiCE Onboarding Integrations [![doc](https://img.shields.io/badge/doc-onboarding-51CB56)](https://docs.alicebiometrics.com/onboarding/) [![doc](https://img.shields.io/badge/doc-integrations-51CB56)](https://docs.alicebiometrics.com/onboarding/integrations.html) 
+
+<img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_color_complementario_1.png" width=auto>
+
+
 
 ALiCE Onboarding provides API Client Tools and Client SDKs to facilitate rapid integration and development.
 
