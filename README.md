@@ -1,4 +1,4 @@
-# Alice Onboarding Integrations [![doc](https://img.shields.io/badge/doc-onboarding-51CB56)](https://docs.alicebiometrics.com/onboarding/) [![doc](https://img.shields.io/badge/doc-integrations-51CB56)](https://docs.alicebiometrics.com/onboarding/integrations.html) 
+# Alice Onboarding Integrations [![doc](https://img.shields.io/badge/doc-alice-51CB56)](https://docs.alicebiometrics.com/onboarding/)
 
 <img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_header.png" width=auto>
 
